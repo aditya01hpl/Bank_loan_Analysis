@@ -14,9 +14,9 @@ Here are several Screenshots of PowerBI Dashboard:
 
 ALL indepth SQL Queries to analysis on finansial_data are mentioned in report.
 
-you can find the dash link here : 
+you can find the dash link here : [here!!](https://vitacin-my.sharepoint.com/:u:/g/personal/aditya_mishra2020b_vitstudent_ac_in/ER6ye4cT5dVLojzV6WfO5LsBjq3mNqf8qODDEfsGwGA7VA?e=2bDhS6)
 
-https://vitacin-my.sharepoint.com/:u:/g/personal/aditya_mishra2020b_vitstudent_ac_in/ER6ye4cT5dVLojzV6WfO5LsBjq3mNqf8qODDEfsGwGA7VA?e=2bDhS6
+
 
 
 
