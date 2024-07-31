@@ -33,7 +33,7 @@ The project has distinct KPIs for each category to distinguish between good and 
 
 ## Data Source
 
-The project is based on a comprehensive [dataset](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/blob/main/data/financial_loan.csv) stored in SQL Server, encompassing various aspects of bank loans, including loan amounts, issue dates, interest rates, DTI ratios, and loan statuses.
+The project is based on a comprehensive [dataset](https://github.com/aditya01hpl/Bank_loan_Analysis/blob/main/financial_loan.csv) stored in SQL Server, encompassing various aspects of bank loans, including loan amounts, issue dates, interest rates, DTI ratios, and loan statuses.
 
 ---
 
